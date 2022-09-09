@@ -6,7 +6,7 @@
 package ejemplogit;
 
 /**
- * Esta clase es un ejemplo
+ * Esta clase es una clase para visualizar resultados
  * @author juan sebastian ortiz <Juan.ortiz05@uceva.edu.co>
  */
 public class Visualizador {
